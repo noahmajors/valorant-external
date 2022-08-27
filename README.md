@@ -6,7 +6,11 @@ AIMBOT(UD) / ESP(UD) / CUSTOM BINDS / MENU
 
 `ESP is fully customizable featuring box and skeleton options. ESP features show enemy HP aswell as the current loadout (weapon out).
 
- 
+### STEPS
+[1] Disable Windows Defender and other Antiviruses. (AV flags the cheat because it modifies files)
+[2] Download and unzip the folder into any directory.
+[3] Launch "valext.exe" before opening Valorant.
+[4] Launch Valorant and load into Training, then press Ins to open and modify the settings.
 
  ```sh-session
 ・ Although this cheat is undetected, I would advise either using an alt account or inserting your own driver. I have not been banned in 16 days using this cheat.・ 
