@@ -1,3 +1,11 @@
+```sh-session
+DETECTION STATUS
+AIMBOT(UNDETECTED)
+ESP(UNDETECTED)
+UPDATED: 8/27/2022
+```
+
+
 ###  Valorant C++ External
 ```sh-session
 AIMBOT(UD) / ESP(UD) / CUSTOM BINDS / MENU
