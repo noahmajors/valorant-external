@@ -16,8 +16,11 @@ AIMBOT(UD) / ESP(UD) / CUSTOM BINDS / MENU
 
 ### STEPS
 [1] Disable Windows Defender and other Antiviruses. (AV flags the cheat because it modifies files)
+
 [2] Download and unzip the folder into any directory.
+
 [3] Launch "valext.exe" before opening Valorant.
+
 [4] Launch Valorant and load into Training, then press Ins to open and modify the settings.
 
  ```sh-session
